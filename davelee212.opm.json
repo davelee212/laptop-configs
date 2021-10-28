@@ -11,7 +11,8 @@
           "foreground": "#ffffff",
           "background": "#256C9D",
           "properties": {
-            "style": "folder"
+            "style": "agnoster_short",
+            "max_depth": 2
           }
         },
         {
